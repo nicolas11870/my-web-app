@@ -16,5 +16,9 @@
     "url": "https://github.com/nicolas11870/my-web-app/issues"
   },
   "homepage": "https://github.com/nicolas11870/my-web-app#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
